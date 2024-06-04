@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notes Pro</string>
+    <string name="hello">Hello.</string>
+    <string name="let_s_get_started">Let\'s Get Started.</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login">LogIn</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="notes">Notes</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="activate_your_notes_pro_id">Activate Your Notes Pro ID</string>
+    <string name="an_email_has_been_sent_to">An email has been sent to</string>
+    <string name="your_email">Your Email</string>
+    <string name="verified_log_in"><![CDATA[Verified & Log In]]></string>
+    <string name="please_follow_the_instructions_in_the_email_to_activate_your_notes_pro_id">Please follow the instructions in the email to activate your Notes Pro ID</string>
+    <string name="user_s_id">User\'s ID</string>
+    <string name="user_s_email">User\'s Email</string>
+</resources>
